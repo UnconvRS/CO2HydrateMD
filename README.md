@@ -2,7 +2,7 @@
 This repository contains open-source codes developed as part of our DOE-funded project titled "Coarse-Grained Molecular Studies of CO2 Storage in Gas Hydrates"
 
 ## Code Objective
-This repository contains the Python package for force field developments using high-throughput molecular simulations.
+This repository contains the Python package for force field developments through post-processing high-throughput molecular simulations.
 
 ## Author:
 ### Meisam Adibifard
